@@ -3940,6 +3940,8 @@ body.is-preload #sidebar nav ul li {
   height: 225px;
   /* position: relative;
   bottom: 80px; */
+  object-fit: cover;
+  object-position: top;
   transition: all 0.3s ease-in-out;
 }
 .profile-picture:hover {
